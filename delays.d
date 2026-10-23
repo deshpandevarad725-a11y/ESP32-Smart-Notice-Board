@@ -1,0 +1,1 @@
+.\delays.o: delays.c

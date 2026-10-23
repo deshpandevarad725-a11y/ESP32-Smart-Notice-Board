@@ -1,0 +1,13 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\Inc\Philips\LPC21xx.H
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: delays.h
+.\main.o: defines.h
+.\main.o: 74LS164.h
+.\main.o: row.h
+.\main.o: dml.h
+.\main.o: uart.h
+.\main.o: i2c.h
+.\main.o: types.h
+.\main.o: i2c_eeprom.h
+.\main.o: types.h

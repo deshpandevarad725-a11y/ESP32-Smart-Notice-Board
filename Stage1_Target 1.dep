@@ -1,0 +1,44 @@
+Dependencies for Project 'Stage1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\74LS164.c)(0x6A439436)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\74ls164.o --omf_browse .\74ls164.crf --depend .\74ls164.d)
+I (defines.h)(0x6A43729C)
+I (delays.h)(0x6A437260)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+F (.\delays.c)(0x6A43723E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\delays.o --omf_browse .\delays.crf --depend .\delays.d)
+F (.\dml.c)(0x6A43962A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\dml.o --omf_browse .\dml.crf --depend .\dml.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x532C1500)
+I (delays.h)(0x6A437260)
+I (defines.h)(0x6A43729C)
+I (74LS164.h)(0x6A4371D4)
+I (row.h)(0x6A438C3A)
+I (dml.h)(0x6A4393DA)
+F (.\i2c.c)(0x6A44DE8A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (types.h)(0x6A44DDF0)
+I (delays.h)(0x6A437260)
+I (i2c_defines.h)(0x6A44DE40)
+F (.\i2c_eeprom.c)(0x6A44DED2)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\i2c_eeprom.o --omf_browse .\i2c_eeprom.crf --depend .\i2c_eeprom.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.h)(0x532C1500)
+I (types.h)(0x6A44DDF0)
+I (i2c.h)(0x6A44DE68)
+I (delays.h)(0x6A437260)
+F (.\main.c)(0x6A44ECB8)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (delays.h)(0x6A437260)
+I (defines.h)(0x6A43729C)
+I (74LS164.h)(0x6A4371D4)
+I (row.h)(0x6A438C3A)
+I (dml.h)(0x6A4393DA)
+I (uart.h)(0x6A44BF7E)
+I (i2c.h)(0x6A44DE68)
+I (types.h)(0x6A44DDF0)
+I (i2c_eeprom.h)(0x6A44DEAC)
+F (.\row.c)(0x6A43911A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\row.o --omf_browse .\row.crf --depend .\row.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x532C1500)
+I (defines.h)(0x6A43729C)
+I (row.h)(0x6A438C3A)
+F (.\uart.c)(0x6A44BFA6)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x532C1500)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (uart.h)(0x6A44BF7E)
